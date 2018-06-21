@@ -675,6 +675,7 @@ a {
     padding: 14px 25px;
     margin-top: -23px;
     transition: background 2s ease;
+  text-transform: uppercase;
 }
 .card__button:hover {
     background: var(--darktBlue2);
@@ -947,6 +948,7 @@ footer{flex-wrap: wrap;min-width:none;}
     padding: 14px 25px;
     margin-top: -23px;
     transition: background 2s ease;
+    text-transform: uppercase;
   }
   
   .contact__button:hover {
@@ -1004,6 +1006,7 @@ input[type=text]:focus, input[type=password]:focus {
     border: none;
     cursor: pointer;
     width: 100%;
+  text-transform: uppercase;
   
   
     outline: 0;
