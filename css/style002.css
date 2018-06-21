@@ -961,7 +961,7 @@ footer{flex-wrap: wrap;min-width:none;}
 
 .footer__bg-img {
     /* The image used */
-    background-image: url("../img/1019941.jpg");
+    background-image: url("https://images.unsplash.com/photo-1476231790875-016a80c274f3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=52d21e330c0a86c06abc47beb451d20c&auto=format&fit=crop&w=750&q=80");
 
     min-height: 380px;
 
